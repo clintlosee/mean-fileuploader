@@ -1,0 +1,27 @@
+{
+  "name": "mean-file-uploader",
+  "description": "MEAN stack file uploader",
+  "main": "server.js",
+  "authors": [
+    "Clint Losee"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/clintlosee/blog",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-filepicker": "^1.1.4",
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.3",
+    "angular-route": "^1.5.3"
+  }
+}
